@@ -1,0 +1,79 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I specialize in crafting seamless user experiences by combining my expertise in HTML, CSS, tailwinds and React library. "
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I specialize in architecting robust and scalable server-side systems along with databases, server technologies, and API design"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Creating user-friendly interfaces that enable users to understand how to use complex technical products ."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Dev.",
+      "description": "As a web flow developer, I specialize in creating visually stunning and highly interactive web applications using visual web development platforms ."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Port.jpg",
+      "title": "My portfolio",
+      "description": "My portfolio  where I shared my short description of Myself , my portfolio my skills and contact .It is build using HTML, CSS , React.js lib . &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp",
+      "link": "View In Github" ,
+      "website": "https://www.google.com"
+    },
+    {
+      "id": "2",
+      "src": "./img/Social.jpg",
+      "title": "Social Media ",
+      "description": "Built a real and modern social media appliation where we can post our messages and media files and it has features like comment on post and like on post, and adding friend in list and more.. . "
+      ,
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/Bit.jpg",
+      "title": "Crypto Tracker",
+      "description": "It is real time time cryptocurrency tracker app which keep the track of change in gain loss and income prices of different cryptocurrencies in real time . ",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "To be done  ",
+      "author_name": "S Raj Bayar",
+      "author_designation": "Photography"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Better then before",
+      "author_name": "Amar Sharma",
+      "author_designation": "Decoration"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Yet to be completed",
+      "author_name": "Shankar",
+      "author_designation": "Student "
+    }
+  ]
+}
